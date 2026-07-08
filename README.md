@@ -14,26 +14,19 @@
 <div align="center">
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 🚀 Turning ideas into code, one commit at a time.
 I'm a final-year Engineering student who loves building things end-to-end — from a clean UI down to the API that powers it. Most of my time goes into the MERN stack, sharpening my DSA skills, and figuring out how to make software that actually scales.
 When I'm not coding, I'm probably reading up on system design or breaking something in Docker just to learn how to fix it. 😄
 </td>
-<td width="40%" valign="top">
-```yaml
-whoami:
-  role: Final-year Engineer
-  stack: MERN
-  loves:
-    - Solving DSA problems
-    - Shipping scalable apps
-    - Clean, readable code
-  learning:
-    - Advanced Java
-    - Docker
-    - System Design
-  status: 🟢 open to opportunities
-```
+<td width="45%" valign="top">
+	
+🎓 Role	Final-year Engineering Student
+💻 Focus	Full Stack Development (MERN)
+🧠 Enjoys	Solving DSA problems
+🚀 Builds	Scalable, practical web apps
+📚 Learning	Advanced Java, Docker, System Design
+🟢 Status	Open to opportunities
 </td>
 </tr>
 </table>
@@ -69,43 +62,43 @@ Tools & Platforms
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 🤖 AI Cold Email Generator
 AI-powered cold email generator using Gemini AI, with authentication and a MERN backend.
-`React` `Node.js` `Express` `MongoDB` `Gemini AI`
-🔗 View Repo(https://github.com/Tanmay09s/MailGen-AI)
+`React` `Node.js` `Express` `MongoDB` `Gemini AI` `Docker`
+![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)
 </td>
-<td width="50%">
-🛒AI_PREP_APP
-An AI-powered interview preparation coach built using the Gemini API, designed to help job seekers practice interviews, get real-time responses, and improve their confidence before facing real interviews.
+<td width="50%" valign="top">
+🎯 AI Prep App
+An AI-powered interview preparation coach built using the Gemini API — practice interviews, get real-time responses, and build confidence before the real thing.
 `React` `Node.js` `Express` `MongoDB` `Gemini AI`
-🔗 View Repo(https://github.com/Tanmay09s/ai-prep-app)
+![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)
 </td>
 </tr>
 <tr>
-<td width="50%">
-Blood-Bank-Management
-A full-stack MERN app to manage blood donations, requests, and inventory. Supports donor/recipient/admin roles, JWT auth, email notifications, and real-time tracking. Ideal for hospitals, NGOs, and blood banks to streamline and digitize the donation process.
-`React` `Redux Toolkit` `Node.js` `Express.js` `Mongo DB`
-🔗 View Repo(https://github.com/Tanmay09s/Blood-Bank-Management)
+<td width="50%" valign="top">
+🩸 Blood Bank Management
+A full-stack MERN app to manage blood donations, requests, and inventory. Supports donor/recipient/admin roles, JWT auth, email notifications, and real-time tracking.
+`React` `Redux Toolkit` `Node.js` `Express.js` `MongoDB`
+![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 🔐 Password Generator
 Customizable password generator with a modern UI and configurable options.
-`React` `JavaScript`
-🔗 View Repo(https://github.com/Tanmay09s/Random-Password-Generator-)
+`React` `JavaScript` `Docker`
+![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
-VIDEO_CHAT_APP
-Video Chat App for Chatting and for video calls
-🔗 View Repo(https://github.com/Tanmay09s/video_chat_app)
+<td width="50%" colspan="2" valign="top" align="center">
+📹 Video Chat App
+A real-time video chat application for messaging and video calls.
+![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)
 </td>
 </tr>
 </table>
 </div>
- <br/>
+<br/>
 📈 Contribution Graph
 <div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Tanmay09s&theme=tokyo-night&hide_border=true" width="90%" />
@@ -115,7 +108,7 @@ Video Chat App for Chatting and for video calls
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tanmay09s/Tanmay09s/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
-> 💡 To make the snake animation above work, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly like your username (`Tanmay09s/Tanmay09s`).
+> 💡 The snake animation renders once you add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly like your username (`Tanmay09s/Tanmay09s`).
 <br/>
 🌱 Currently Learning
 <div align="center">
@@ -129,4 +122,5 @@ Video Chat App for Chatting and for video calls
 🙌 Thank You
 Thank you for visiting my GitHub profile! Feel free to explore my repositories, check out my projects, and connect with me.
 ⭐ If you like my work, consider giving a star to my repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=120&section=footer" width="100%"/>
 </div>
