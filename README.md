@@ -1,92 +1,183 @@
-::: {align="center"}
-Hi there 👋 I'm Tanmay Shahapure
-Software Engineer Fresher • Full Stack Developer • Problem Solver
-Passionate about building scalable web applications, solving problems,
-and continuously learning modern technologies.
-```{=html}
-<p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=220&section=header&text=Hi%20There,%20I'm%20Tanmay%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Passionate+about+DSA+%26+Problem+Solving;Building+Scalable+Web+Applications;Currently+Exploring+System+Design+%26+Docker" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Tanmay09s"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/tanmay-shahapure-b982322ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tanmayshahapure@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/tanmay09s/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.naukri.com/code360/profile/67dd818f-1831-4236-b196-afaa911d7550"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=Tanmay09s&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```yaml
+tanmay:
+  role: "Final-year Engineering Student"
+  focus: "Full Stack Development (MERN)"
+  loves: ["Data Structures & Algorithms", "Building scalable apps", "Clean code"]
+  currently_learning: ["Advanced Java", "Docker", "System Design", "MERN Best Practices"]
+  fun_fact: "I ship side-projects faster than I finish my coffee ☕"
 ```
-`<a href="https://github.com/Tanmay09s">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/tanmay-shahapure-b982322ba">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />`{=html}`</a>`{=html}
-`<a href="mailto:tanmayshahapure@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/u/tanmay09s/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />`{=html}`</a>`{=html}
-`<a href="https://www.naukri.com/code360/profile/67dd818f-1831-4236-b196-afaa911d7550">`{=html}`<img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge" />`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
-:::
----
-👨‍💻 About Me
-🎓 Final-year Engineering Student
-💻 Passionate about Software Development
-🌱 Interested in Full Stack Development using the MERN Stack
-🧠 Enjoy solving Data Structures & Algorithms
-🚀 Love building practical, scalable applications
-📚 Currently learning Advanced Java, Docker, System
-Design, and MERN Best Practices
----
-🛠️ Tech Stack
----
-Category                      Technologies
----
-Languages                 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-Frontend                  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-Backend                   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-Database                  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-Tools                     ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
----
-🚀 Featured Projects
----
-Project           Description                 Tech Stack
----
-🤖 AI Cold      AI-powered cold email       React • Node.js • Express
-Email Generator generator using Gemini AI   • MongoDB • Gemini AI
-with authentication and a  
-MERN backend.
-🛒 MERN         Complete e-commerce         MERN • Redux Toolkit
-E-Commerce        application with  
-Platform        authentication, shopping  
-cart, and order management.
-📝 Notes        Notes application           React • Redux Toolkit
-Saver           supporting CRUD operations  
-with Redux Toolkit and  
-React Router.
-🔐 Password     Customizable password       React • JavaScript
-Generator       generator with modern UI  
-and configurable options.
-🚗 Smart        Embedded system that        Arduino • GSM • GPS
-Accident          detects accidents and sends
-Detection         emergency alerts using GSM  
-System          and GPS.
-Repository Links
-AI Cold Email Generator →
-`https://github.com/your-username/ai-cold-email-generator`
-MERN E-Commerce Platform →
-`https://github.com/your-username/mern-ecommerce-platform`
-Notes Saver → `https://github.com/your-username/notes-saver`
-Password Generator →
-`https://github.com/your-username/password-generator`
-Smart Accident Detection System →
-`https://github.com/your-username/smart-accident-detection-system`
----
-🌱 Currently Learning
-☕ Advanced Java
-🐳 Docker
-🏗️ System Design
-⚡ MERN Best Practices
----
-::: {align="center"}
-🙌 Thank You
-Thank you for visiting my GitHub profile!
-Feel free to explore my repositories, check out my projects, and connect
-with me.
-⭐ If you like my work, consider giving a star to my repositories!
-:::
+
+- 🎓 Final-year Engineering Student
+- 💻 Passionate about Software Development
+- 🌱 Interested in Full Stack Development using the **MERN Stack**
+- 🧠 Enjoy solving **Data Structures & Algorithms**
+- 🚀 Love building practical, scalable applications
+- 📚 Currently learning **Advanced Java, Docker, System Design & MERN Best Practices**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,cpp,html,css" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Cold Email Generator
+AI-powered cold email generator using Gemini AI, with authentication and a MERN backend.
+
+`React` `Node.js` `Express` `MongoDB` `Gemini AI`
+
+[🔗 View Repo](https://github.com/Tanmay09s/ai-cold-email-generator)
+
+</td>
+<td width="50%">
+
+### 🛒 MERN E-Commerce Platform
+Complete e-commerce application with authentication, shopping cart, and order management.
+
+`MERN` `Redux Toolkit`
+
+[🔗 View Repo](https://github.com/Tanmay09s/mern-ecommerce-platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 Notes Saver
+Notes application supporting CRUD operations with Redux Toolkit and React Router.
+
+`React` `Redux Toolkit`
+
+[🔗 View Repo](https://github.com/Tanmay09s/notes-saver)
+
+</td>
+<td width="50%">
+
+### 🔐 Password Generator
+Customizable password generator with a modern UI and configurable options.
+
+`React` `JavaScript`
+
+[🔗 View Repo](https://github.com/Tanmay09s/password-generator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 🚗 Smart Accident Detection System
+Embedded system that detects accidents and sends emergency alerts using GSM and GPS.
+
+`Arduino` `GSM` `GPS`
+
+[🔗 View Repo](https://github.com/Tanmay09s/smart-accident-detection-system)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> ⚠️ **Note:** Double-check the repo links above and update any that don't match your actual repository names/URLs.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmay09s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay09s&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09s&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
+
+<br/>
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tanmay09s/Tanmay09s/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</div>
+
+> 💡 To make the snake animation above work, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly like your username (`Tanmay09s/Tanmay09s`).
+
+<br/>
+
+## 🌱 Currently Learning
+
+<div align="center">
+<img src="https://img.shields.io/badge/Advanced%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/MERN%20Best%20Practices-00684A?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🙌 Thank You
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories, check out my projects, and connect with me.
+
+⭐ **If you like my work, consider giving a star to my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=120&section=footer" width="100%"/>
+
+</div>
