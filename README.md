@@ -1,180 +1,587 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=230&section=header&text=Hi%20There,%20I'm%20Tanmay%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6D28D9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;Passionate+about+DSA+%26+Problem+Solving;Currently+Exploring+System+Design+%26+Docker" alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6D28D9,100:0EA5E9&text=Hi%20There,%20I'm%20Tanmay%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=58&descSize=18"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=6D28D9&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;Passionate+about+DSA+%26+Problem+Solving;Currently+Exploring+System+Design+%26+Docker"/>
+
+<br><br>
+
+<a href="https://github.com/Tanmay09s">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanmay-shahapure-b982322ba">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tanmayshahapure@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/tanmay09s/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.naukri.com/code360/profile/67dd818f-1831-4236-b196-afaa911d7550">
+<img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Tanmay09s&label=Profile%20Views&style=for-the-badge&color=6D28D9"/>
+
 </div>
-<br/>
-<!-- ============================ SOCIALS ============================ -->
-<div align="center">
-<a href="https://github.com/Tanmay09s"><img height="36" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/tanmay-shahapure-b982322ba"><img height="36" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tanmayshahapure@gmail.com"><img height="36" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/tanmay09s/"><img height="36" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.naukri.com/code360/profile/67dd818f-1831-4236-b196-afaa911d7550"><img height="36" src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge" /></a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Tanmay09s&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile Views" />
-</div>
-<br/>
+
 ---
-👨‍💻 About Me
+
+# 👨‍💻 About Me
+
 <table width="100%">
 <tr>
+
 <td width="55%" valign="top">
-<br/>
-I'm a final-year Engineering student who loves building things end‑to‑end — from a clean, intuitive UI down to the API that powers it. Most of my time goes into the MERN stack, sharpening my Data Structures & Algorithms, and figuring out how to make software that actually scales.
-When I'm not coding, I'm reading about system design or experimenting with Docker to understand how production systems really work.
-<br/>
+
+### Hello! 👋
+
+I'm **Tanmay Shahapure**, a passionate **Software Engineer** and **Full Stack Developer** focused on building scalable, user-centric web applications.
+
+I enjoy transforming ideas into production-ready software using the **MERN Stack**, while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
+
+Beyond coding, I enjoy learning modern backend architecture, containerization with Docker, and scalable system design.
+
+### What I Do
+
+- Build Full Stack MERN Applications
+- Design Clean & Responsive User Interfaces
+- Develop REST APIs
+- Solve Data Structures & Algorithms problems
+- Learn scalable software architecture
+- Continuously improve development best practices
+
 </td>
+
 <td width="45%" valign="top">
+
 <div align="center">
-	
-🎓  Role	Final-year Engineering Student
-💻  Focus	Full Stack Development (MERN)
-🧠  Interest	DSA & Problem Solving
-📚  Learning	Advanced Java, Docker, System Design
-🟢  Status	Open to Opportunities
+
+| **Professional Information** | |
+|:-----------------------------|:----------------|
+| 🎓 Education | Final-year Engineering Student |
+| 💻 Role | Full Stack Developer |
+| 🚀 Stack | MERN Stack |
+| 🧠 Interest | DSA & Problem Solving |
+| 📚 Currently Learning | Advanced Java, Docker & System Design |
+| 🌍 Looking For | Software Engineering Opportunities |
+| ⚡ Status | Open to Opportunities |
+
 </div>
+
 </td>
+
 </tr>
 </table>
+
+<br>
+
 <div align="center">
-<img src="https://img.shields.io/badge/Final--Year%20Engineering%20Student-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/MERN%20Stack-22C55E?style=flat-square" />
-<img src="https://img.shields.io/badge/DSA%20Enthusiast-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20to%20Opportunities-22C55E?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Software%20Engineer-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN%20Developer-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solver-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-16A34A?style=for-the-badge"/>
+
 </div>
-<br/>
+
+<br>
+
 ---
-🛠️ Tech Stack
+
+# 🛠️ Tech Stack
+
 <div align="center">
-<sub>Technologies I work with every day</sub>
-<br/><br/>
-Languages
-<img src="https://skillicons.dev/icons?i=java,js,cpp,html,css" />
-<br/><br/>
-Frontend
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
-<br/><br/>
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<br/><br/>
-Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<br/><br/>
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" />
+
+## Technologies I work with every day.
+
 </div>
-<br/>
----
-🚀 Featured Projects
-<table width="100%">
+
+<br>
+
+<table align="center" width="100%">
+
 <tr>
-<td width="50%" valign="top">
-<div align="center" style="border:1px solid #6D28D9; border-radius:12px; padding:20px; margin:6px;">
-🤖 AI Cold Email Generator
-AI-powered cold email generator using Gemini AI, with authentication and a MERN backend.
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<br/><br/>
-![View Repository](https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white)
-</div>
+
+<td align="center" width="50%">
+
+## 💻 Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,js,cpp,html,css&perline=5"/>
+
 </td>
-<td width="50%" valign="top">
-<div align="center" style="border:1px solid #6D28D9; border-radius:12px; padding:20px; margin:6px;">
-🎯 AI Prep App
-AI-powered interview preparation coach built using the Gemini API — practice interviews, get real-time responses, and build confidence.
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<br/><br/>
-![View Repository](https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white)
-</div>
+
+<td align="center" width="50%">
+
+## 🎨 Frontend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&perline=4"/>
+
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-<div align="center" style="border:1px solid #6D28D9; border-radius:12px; padding:20px; margin:6px;">
-🩸 Blood Bank Management
-Full-stack MERN app to manage blood donations, requests, and inventory — with donor/recipient/admin roles, JWT auth, email notifications, and real-time tracking.
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<br/><br/>
-![View Repository](https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white)
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center" style="border:1px solid #6D28D9; border-radius:12px; padding:20px; margin:6px;">
-🔐 Password Generator
-Customizable password generator with a modern UI and configurable options.
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<br/><br/>
-![View Repository](https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white)
-</div>
-</td>
-</tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
-<div align="center" style="border:1px solid #6D28D9; border-radius:12px; padding:20px; margin:6px;">
-📹 Video Chat App
-A real-time video chat application supporting messaging and video calls.
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
-<br/><br/>
-![View Repository](https://img.shields.io/badge/View%20Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white)
-</div>
-</td>
-</tr>
-</table>
-<br/>
----
-📊 GitHub Statistics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tanmay09s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=0EA5E9&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay09s&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=0EA5E9&currStreakLabel=6D28D9" width="48%" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=c9d1d9" width="48%" />
-</div>
-<br/>
-📈 Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay09s&theme=react-dark&bg_color=0D1117&color=0EA5E9&line=6D28D9&point=22C55E&hide_border=true" width="95%" />
-</div>
-<br/>
-🐍 Contribution Snake
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tanmay09s/Tanmay09s/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</div>
-<div align="center">
-<sub>Powered by the <code>.github/workflows/snake.yml</code> action below — runs automatically once added to your <code>Tanmay09s/Tanmay09s</code> repository.</sub>
-</div>
-<br/>
----
-🌱 Currently Learning
-<div align="center">
-<img src="https://img.shields.io/badge/Advanced%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white" />
-<img src="https://img.shields.io/badge/MERN%20Best%20Practices-22C55E?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-<br/>
----
-💭 Developer Philosophy
-<div align="center">
-> *"Clean code always beats clever code."*
->
-> *"I enjoy solving real-world problems through scalable software."*
-</div>
-<br/>
-⚡ Fun Fact
-<div align="center">
-<table>
-<tr>
+
 <td align="center">
-I enjoy solving DSA problems more than watching movies.
+
+## ⚙️ Backend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2"/>
+
 </td>
+
+<td align="center">
+
+## 🗄️ Database
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2"/>
+
+</td>
+
 </tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+## 🛠️ Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&perline=6"/>
+
+</td>
+
+</tr>
+
 </table>
-</div>
-<br/>
----
+
+<br>
+
 <div align="center">
-🙌 Thanks for Visiting
-If you like my work, consider starring my repositories ⭐
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=120&section=footer" width="100%"/>
+
+| 🚀 Development Focus |
+|:--------------------:|
+| Full Stack MERN Development • REST APIs • Responsive UI • Authentication • Database Design • Docker • Deployment • Clean Code |
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+
+</div>
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<p>
+A collection of projects showcasing my expertise in Full Stack Development, AI integration, scalable backend systems, and modern web technologies.
+</p>
+
+</div>
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🤖 AI Cold Email Generator
+
+AI-powered cold email generator that creates professional recruiter outreach emails using **Gemini AI** with secure authentication and a complete MERN backend.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+
+<br><br>
+
+<a href="https://github.com/Tanmay09s">
+<img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🎯 AI Prep App
+
+AI interview preparation platform powered by **Gemini API** that simulates interview rounds, evaluates responses, and improves technical confidence.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/Tanmay09s">
+<img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🩸 Blood Bank Management
+
+A complete MERN application for managing blood donations, requests, inventory, JWT authentication, role-based access, and email notifications.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
+
+<br><br>
+
+<a href="https://github.com/Tanmay09s">
+<img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🔐 Password Generator
+
+A customizable password generator with configurable options, copy-to-clipboard support, responsive UI, and modern React architecture.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+
+<br><br>
+
+<a href="https://github.com/Tanmay09s">
+<img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<div align="center">
+
+## 📹 Video Chat App
+
+Real-time video conferencing application featuring secure video calls, instant messaging, peer-to-peer communication, and responsive design.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio"/>
+
+<br><br>
+
+<a href="https://github.com/Tanmay09s">
+<img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+### Always learning, always improving.
+
+<br>
+
+<img src="https://img.shields.io/badge/Advanced_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System_Design-4B5563?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN_Best_Practices-22C55E?style=for-the-badge&logo=mongodb"/>
+
+</div>
+
+<br>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+> ### *"Clean code always beats clever code."*
+>
+> ### *"I enjoy solving real-world problems through scalable software."*
+>
+> ### *"Consistency compounds into expertise."*
+
+</div>
+
+<br>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### 💡
+
+I enjoy solving **Data Structures & Algorithms** problems more than watching movies.
+
+<br>
+
+I believe every challenging bug teaches something new.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+
+
+</div>
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+### My GitHub at a Glance
+
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanmay09s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=0EA5E9&text_color=C9D1D9"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay09s&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=0EA5E9&currStreakLabel=22C55E"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=C9D1D9"/>
+
+</div>
+
+<br>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+### Contribution Graph
+
+<br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay09s&theme=react-dark&bg_color=0D1117&hide_border=true&line=6D28D9&point=22C55E&color=0EA5E9"/>
+
+</div>
+
+<br>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+### Watch my contributions come alive
+
+<br>
+
+<img width="98%" src="https://raw.githubusercontent.com/Tanmay09s/Tanmay09s/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+
+The snake animation is automatically generated using a GitHub Actions workflow.
+
+</sub>
+
+</div>
+
+<br>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Tanmay09s">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanmay-shahapure-b982322ba">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tanmayshahapure@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/tanmay09s/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.naukri.com/code360/profile/67dd818f-1831-4236-b196-afaa911d7550">
+<img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+# 💼 What You'll Find Here
+
+<div align="center">
+
+| 🚀 |
+|:---:|
+| Full Stack MERN Projects |
+| AI-powered Applications |
+| REST APIs |
+| Authentication Systems |
+| Modern React Applications |
+| Dockerized Projects |
+| Backend Development |
+| Problem Solving & DSA |
+
+</div>
+
+<br>
+
+---
+
+# 📌 Current Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Building-Scalable_Web_Applications-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-System_Design-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Exploring-Docker-2496ED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Practicing-Advanced_Java-ED8B00?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+If you enjoyed exploring my projects,
+
+consider giving them a ⭐ on GitHub.
+
+Your support motivates me to build more amazing software.
+
+<br><br>
+
+<a href="https://github.com/Tanmay09s">
+<img src="https://img.shields.io/badge/Visit_My_GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0EA5E9,100:6D28D9"/>
+
 </div>
