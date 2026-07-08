@@ -73,42 +73,44 @@ Tools & Platforms
 🤖 AI Cold Email Generator
 AI-powered cold email generator using Gemini AI, with authentication and a MERN backend.
 `React` `Node.js` `Express` `MongoDB` `Gemini AI`
-🔗 View Repo
+🔗 View Repo(https://github.com/Tanmay09s/MailGen-AI)
 </td>
 <td width="50%">
-🛒 MERN E-Commerce Platform
-Complete e-commerce application with authentication, shopping cart, and order management.
-`MERN` `Redux Toolkit`
-🔗 View Repo
+🛒AI_PREP_APP
+An AI-powered interview preparation coach built using the Gemini API, designed to help job seekers practice interviews, get real-time responses, and improve their confidence before facing real interviews.
+`React` `Node.js` `Express` `MongoDB` `Gemini AI`
+🔗 View Repo(https://github.com/Tanmay09s/ai-prep-app)
 </td>
 </tr>
 <tr>
 <td width="50%">
-📝 Notes Saver
-Notes application supporting CRUD operations with Redux Toolkit and React Router.
-`React` `Redux Toolkit`
-🔗 View Repo
+Blood-Bank-Management
+A full-stack MERN app to manage blood donations, requests, and inventory. Supports donor/recipient/admin roles, JWT auth, email notifications, and real-time tracking. Ideal for hospitals, NGOs, and blood banks to streamline and digitize the donation process.
+`React` `Redux Toolkit` `Node.js` `Express.js` `Mongo DB`
+🔗 View Repo(https://github.com/Tanmay09s/Blood-Bank-Management)
 </td>
 <td width="50%">
 🔐 Password Generator
 Customizable password generator with a modern UI and configurable options.
 `React` `JavaScript`
-🔗 View Repo
+🔗 View Repo(https://github.com/Tanmay09s/Random-Password-Generator-)
 </td>
 </tr>
 <tr>
 <td width="50%" colspan="2">
-🚗 Smart Accident Detection System
-Embedded system that detects accidents and sends emergency alerts using GSM and GPS.
-`Arduino` `GSM` `GPS`
-🔗 View Repo
+VIDEO_CHAT_APP
+Video Chat App for Chatting and for video calls
+🔗 View Repo(https://github.com/Tanmay09s/video_chat_app)
 </td>
 </tr>
 </table>
 </div>
+ <br/>
+📈 Contribution Graph
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Tanmay09s&theme=tokyo-night&hide_border=true" width="90%" />
+</div>
 <br/>
-
-
 🐍 Contribution Snake
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tanmay09s/Tanmay09s/output/github-contribution-grid-snake-dark.svg" width="90%" />
