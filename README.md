@@ -229,7 +229,7 @@ AI-powered cold email generator that creates professional recruiter outreach ema
 
 <br><br>
 
-<a href="https://github.com/Tanmay09s">
+<a href="https://github.com/Tanmay09s/MailGen-AI">
 <img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -241,7 +241,7 @@ AI-powered cold email generator that creates professional recruiter outreach ema
 
 <div align="center">
 
-## 🎯 AI Prep App
+## 🎯 Interview Prep AI App
 
 AI interview preparation platform powered by **Gemini API** that simulates interview rounds, evaluates responses, and improves technical confidence.
 
@@ -255,7 +255,7 @@ AI interview preparation platform powered by **Gemini API** that simulates inter
 
 <br><br>
 
-<a href="https://github.com/Tanmay09s">
+<a href="https://github.com/Tanmay09s/ai-prep-app">
 <img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -285,7 +285,7 @@ A complete MERN application for managing blood donations, requests, inventory, J
 
 <br><br>
 
-<a href="https://github.com/Tanmay09s">
+<a href="https://github.com/Tanmay09s/Blood-Bank-Management">
 <img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -310,7 +310,7 @@ A customizable password generator with configurable options, copy-to-clipboard s
 
 <br><br>
 
-<a href="https://github.com/Tanmay09s">
+<a href="https://github.com/Tanmay09s/Random-Password-Generator-">
 <img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -339,7 +339,7 @@ Real-time video conferencing application featuring secure video calls, instant m
 
 <br><br>
 
-<a href="https://github.com/Tanmay09s">
+<a href="https://github.com/Tanmay09s/video_chat_app">
 <img src="https://img.shields.io/badge/🚀_View_Repository-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
