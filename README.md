@@ -437,11 +437,22 @@ I believe every challenging bug teaches something new.
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanmay09s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=0EA5E9&text_color=C9D1D9"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay09s&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=0EA5E9&currStreakLabel=22C55E"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Tanmay09s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github&cache_seconds=1800"
+/>
+
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=Tanmay09s&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=0EA5E9&currStreakLabel=22C55E"
+/>
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=C9D1D9"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay09s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&text_color=C9D1D9&langs_count=8&cache_seconds=1800"
+/>
 
 </div>
 
