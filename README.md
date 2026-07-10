@@ -429,20 +429,43 @@ I believe every challenging bug teaches something new.
 
 </div>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay09s&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanmay09s&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanmay09s&theme=tokyonight" width="48%" />
-</p>
-# 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
+### My GitHub at a Glance
+
+<br>
+
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay09s&theme=tokyonight"
+/>
+
+<br><br>
+
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=Tanmay09s&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanmay09s&theme=tokyonight"
+/>
+
+<br><br>
+
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanmay09s&theme=tokyonight"
+/>
+
+</div>
+
+<br>
+
+---
 ### Contribution Graph
 
 <br>
