@@ -577,7 +577,7 @@ The snake animation is automatically generated using a GitHub Actions workflow.
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## ⭐ Thanks for Visiting!!
 
 If you enjoyed exploring my projects,
 
