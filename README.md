@@ -334,8 +334,8 @@ Real-time video conferencing application featuring secure video calls, instant m
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
 
 <br><br>
 
