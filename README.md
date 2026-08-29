@@ -1,4 +1,4 @@
-<div align="center">
+8<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6D28D9,100:0EA5E9&text=Hi%20There,%20I'm%20Tanmay%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=58&descSize=18"/>
 
@@ -355,7 +355,7 @@ Real-time video conferencing application featuring secure video calls, instant m
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Learning..
 
 <div align="center">
 
