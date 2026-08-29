@@ -355,7 +355,7 @@ Real-time video conferencing application featuring secure video calls, instant m
 
 ---
 
-# 🌱 Currently Learning..
+# 🌱 Currently Learning
 
 <div align="center">
 
